@@ -4,3 +4,6 @@ from django.shortcuts import render
 class my_user():
     def get(self):
         print("helo")
+
+def x():
+    print("waqar")
